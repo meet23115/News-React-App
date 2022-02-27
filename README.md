@@ -1,3 +1,5 @@
+NewsNest is a responsive web application developed using ReactJS, Bootstrap and NewsAPI. User can easily read news read news related to any topic.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
